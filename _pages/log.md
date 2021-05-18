@@ -8,13 +8,13 @@ title: IMMERSE Log
 * **Catch up on bootcamp things that are necessary**: 
 * **Add timing to for loop**: 
 * **As a way to learn the code, start going through issues on Github**: 
-* **Work with Daniel on Bagdr pathways**:
+* **Work with Daniel on Badgr pathways**:
 
 
 ### Week 4: May 18, 2021
 
 * **Monday**: Bootcamp meeting. Had a bigger assignment due for my class and had to get taxes done.
-* **Tuesday**: 
+* **Tuesday**: Work with fclk. Found more issues with prog. Started documenting code in doxygen in JCMClockControl
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
