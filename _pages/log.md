@@ -3,6 +3,21 @@ layout: default
 title: IMMERSE Log
 ---
 
+### This Week's Goals
+* **Read the fclk file to finish clk rate scanner**: 
+* **Catch up on bootcamp things that are necessary**: 
+* **Add timing to for loop**: 
+* **As a way to learn the code, start going through issues on Github**: 
+* **Work with Daniel on Bagdr pathways**:
+
+
+### Week 4: May 18, 2021
+
+* **Monday**: Bootcamp meeting. Had a bigger assignment due for my class and had to get taxes done.
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
 
 ### Week 3: May 10, 2021
 
@@ -10,7 +25,7 @@ title: IMMERSE Log
 * **Tuesday**: Clock Scanner Debugging. Studying the code. Stuggling with extentions and VScode
 * **Wednesday**: Mostly meetings. Getting the Bootcamp page set up with student summaries and my outreach presentation.
 * **Thursday**: Worked on understanding some of the Xilinx directory, figuring out JPROGRAM and fixing the DONE high issue.
-* **Friday**: 
+* **Friday**: Learning how the clock rate file works, learning more of the code layout
 
 ### Week 2: May 3, 2021
 
