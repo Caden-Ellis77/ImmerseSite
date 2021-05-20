@@ -10,13 +10,23 @@ title: IMMERSE Log
 * **As a way to learn the code, start going through issues on Github**: 
 * **Work with Daniel on Badgr pathways**:
 
+**Will be gone June 11 - 14**:
 
-### Week 4: May 18, 2021
+### Week 5: May 24, 2021
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
+
+### Week 4: May 17, 2021
 
 * **Monday**: Bootcamp meeting. Had a bigger assignment due for my class and had to get taxes done.
 * **Tuesday**: Work with fclk. Found more issues with prog. Started documenting code in doxygen in JCMClockControl
-* **Wednesday**: 
-* **Thursday**: 
+* **Wednesday**: Immerse Meeting and Bootcamp
+* **Thursday**: Updated the issues with the prog, and got it working with the Nexys board. More progress with clk rate scanner, making it have arguments. JTAG Webpage started. Pathways example requested from Badgr.
 * **Friday**: 
 
 ### Week 3: May 10, 2021
