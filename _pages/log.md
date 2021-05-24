@@ -3,10 +3,11 @@ layout: default
 title: IMMERSE Log
 ---
 
-### This Week's Goals
-* **Read the fclk file to finish clk rate scanner**: 
+### This Week's Goals (May 24)
+* **Read the fclk file to finish clk rate scanner, add arguments**: 
 * **Catch up on bootcamp things that are necessary**: 
 * **Add timing to for loop**: 
+* **JTAG Bootcamp Page**:
 * **As a way to learn the code, start going through issues on Github**: 
 * **Work with Daniel on Badgr pathways**:
 
@@ -27,7 +28,7 @@ title: IMMERSE Log
 * **Tuesday**: Work with fclk. Found more issues with prog. Started documenting code in doxygen in JCMClockControl
 * **Wednesday**: Immerse Meeting and Bootcamp
 * **Thursday**: Updated the issues with the prog, and got it working with the Nexys board. More progress with clk rate scanner, making it have arguments. JTAG Webpage started. Pathways example requested from Badgr.
-* **Friday**: 
+* **Friday**: Bootcamp meeting
 
 ### Week 3: May 10, 2021
 
