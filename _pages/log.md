@@ -15,8 +15,8 @@ title: IMMERSE Log
 
 ### Week 5: May 24, 2021
 
-* **Monday**: 
-* **Tuesday**: 
+* **Monday**: Did not get to come in
+* **Tuesday**: Significant progress on the clock scanner: however ran into the issue where the board would not configure at clock rates between 65-85 MHz so that is hindering progress.
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
