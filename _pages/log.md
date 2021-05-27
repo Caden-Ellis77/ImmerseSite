@@ -17,7 +17,7 @@ title: IMMERSE Log
 
 * **Monday**: Did not get to come in
 * **Tuesday**: Significant progress on the clock scanner: however ran into the issue where the board would not configure at clock rates between 65-85 MHz so that is hindering progress.
-* **Wednesday**: 
+* **Wednesday**: Immerse Meeting, Broader Impacts Meeting, Bootcamp
 * **Thursday**: 
 * **Friday**: 
 
