@@ -3,23 +3,31 @@ layout: default
 title: IMMERSE Log
 ---
 
-### This Week's Goals (May 24)
-* **Read the fclk file to finish clk rate scanner, add arguments**: 
+### This Week's Goals (May 31)
 * **Catch up on bootcamp things that are necessary**: 
-* **Add timing to for loop**: 
+* **Fix the things we discussed on full configure**: 
+* **Go through the issues I have already made**:
 * **JTAG Bootcamp Page**:
-* **As a way to learn the code, start going through issues on Github**: 
+* **Find a style to stick to for Doxygen Documentation**: 
 * **Work with Daniel on Badgr pathways**:
 
 **Will be gone June 11 - 14**:
+
+### Week 6: May 31, 2021
+
+* **Monday**:
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
 
 ### Week 5: May 24, 2021
 
 * **Monday**: Did not get to come in
 * **Tuesday**: Significant progress on the clock scanner: however ran into the issue where the board would not configure at clock rates between 65-85 MHz so that is hindering progress.
 * **Wednesday**: Immerse Meeting, Broader Impacts Meeting, Bootcamp Training
-* **Thursday**: 
-* **Friday**: 
+* **Thursday**: Going through the JTAG Library, making questions and cleaning the code
+* **Friday**: Going over my questions with Dr. Wirthlin, Debugging the full configure and clock rate hanging issue
 
 
 ### Week 4: May 17, 2021
