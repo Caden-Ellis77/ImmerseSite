@@ -15,10 +15,10 @@ title: IMMERSE Log
 
 ### Week 6: May 31, 2021
 
-* **Monday**:
-* **Tuesday**: 
-* **Wednesday**: 
-* **Thursday**: 
+* **Monday**: Holiday
+* **Tuesday**: Working on full config 
+* **Wednesday**: Full Config, Immerse Meeting, Broader Impacts Meeting, Bootcamp Training
+* **Thursday**: Got the full config and Clock rate scanner to FINALLY work. 
 * **Friday**: 
 
 ### Week 5: May 24, 2021
