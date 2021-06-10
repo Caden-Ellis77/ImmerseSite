@@ -4,14 +4,22 @@ title: IMMERSE Log
 ---
 
 ### This Week's Goals (May 31)
-* **Catch up on bootcamp things that are necessary**: 
-* **Fix the things we discussed on full configure**: 
 * **Go through the issues I have already made**:
+* **Start learning the Xilinx Library**:
 * **JTAG Bootcamp Page**:
 * **Find a style to stick to for Doxygen Documentation**: 
 * **Work with Daniel on Badgr pathways**:
+* **Catch up on bootcamp things that are necessary**: 
 
 **Will be gone June 11 - 14**:
+
+### Week 7: June 7, 2021
+
+* **Monday**: Working on Pull request
+* **Tuesday**: Refactored Clock scanner to work with shifts
+* **Wednesday**: Full Config, Immerse Meeting, Broader Impacts Meeting, Bootcamp Training
+* **Thursday**: Submitted pull request, ssh problems :() 
+* **Friday**: Vacation
 
 ### Week 6: May 31, 2021
 
@@ -19,7 +27,7 @@ title: IMMERSE Log
 * **Tuesday**: Working on full config 
 * **Wednesday**: Full Config, Immerse Meeting, Broader Impacts Meeting, Bootcamp Training
 * **Thursday**: Got the full config and Clock rate scanner to FINALLY work. 
-* **Friday**: 
+* **Friday**: Testing the clock scanner and full config for pull request
 
 ### Week 5: May 24, 2021
 
