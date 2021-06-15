@@ -13,12 +13,20 @@ title: IMMERSE Log
 
 **Will be gone June 11 - 14**:
 
+### Week 8: June 14, 2021
+
+* **Monday**: Vacation
+* **Tuesday**: For the life of me I cannot get ssh working again.
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
 ### Week 7: June 7, 2021
 
 * **Monday**: Working on Pull request
 * **Tuesday**: Refactored Clock scanner to work with shifts
 * **Wednesday**: Full Config, Immerse Meeting, Broader Impacts Meeting, Bootcamp Training
-* **Thursday**: Submitted pull request, ssh problems :() 
+* **Thursday**: Submitted pull request, ssh problems :(
 * **Friday**: Vacation
 
 ### Week 6: May 31, 2021
