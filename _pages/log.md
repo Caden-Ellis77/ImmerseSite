@@ -18,7 +18,7 @@ title: IMMERSE Log
 * **Monday**: Vacation
 * **Tuesday**: For the life of me I cannot get ssh working again.
 * **Wednesday**: Full Config, Immerse Meeting, Broader Impacts Meeting, Bootcamp Training
-* **Thursday**: FINALLY figured out the ssh problem and documented it.
+* **Thursday**: FINALLY figured out the ssh problem and documented it. Started working on the Swig build
 * **Friday**: 
 
 ### Week 7: June 7, 2021
