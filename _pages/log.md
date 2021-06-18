@@ -19,7 +19,7 @@ title: IMMERSE Log
 * **Tuesday**: For the life of me I cannot get ssh working again.
 * **Wednesday**: Full Config, Immerse Meeting, Broader Impacts Meeting, Bootcamp Training
 * **Thursday**: FINALLY figured out the ssh problem and documented it. Started working on the Swig build
-* **Friday**: 
+* **Friday**: Compiled the apps and jtag directories on the JCM to make sure they work after the git pull. Fixed the warnings in the swig built but getting the "no delete_JTAGDevice error still. Started reading SWIG documentation. SS
 
 ### Week 7: June 7, 2021
 
