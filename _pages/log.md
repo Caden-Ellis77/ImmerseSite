@@ -3,13 +3,12 @@ layout: default
 title: IMMERSE Log
 ---
 
-### This Week's Goals (May 31)
+### This Week's Goals (June 21)
+* **Get SWIG to compile and read a register in python**:
 * **Go through the issues I have already made**:
 * **Start learning the Xilinx Library**:
 * **JTAG Bootcamp Page**:
 * **Find a style to stick to for Doxygen Documentation**: 
-* **Work with Daniel on Badgr pathways**:
-* **Catch up on bootcamp things that are necessary**: 
 
 **Will be gone June 11 - 14**:
 
