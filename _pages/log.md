@@ -11,6 +11,14 @@ title: IMMERSE Log
 * **JTAG Bootcamp Page**:
 * **Find a style to stick to for Doxygen Documentation**: 
 
+### Week 9: June 21, 2021
+
+* **Monday**: Continued working in getting the JTAGDevice error to go away, removing JTAGDevice on my own branch to see if it will fix it
+* **Tuesday**: .
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
 ### Week 8: June 14, 2021
 
 * **Monday**: Vacation
