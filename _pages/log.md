@@ -14,9 +14,9 @@ title: IMMERSE Log
 ### Week 9: June 21, 2021
 
 * **Monday**: Continued working in getting the JTAGDevice error to go away, removing JTAGDevice on my own branch to see if it will fix it
-* **Tuesday**: .
-* **Wednesday**: 
-* **Thursday**: 
+* **Tuesday**: Did not come in
+* **Wednesday**: Got Swig to make a JTAG Hardware object
+* **Thursday**: Working on "build_swig_importer.py" Script
 * **Friday**: 
 
 ### Week 8: June 14, 2021
