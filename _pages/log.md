@@ -6,10 +6,19 @@ title: IMMERSE Log
 ### This Week's Goals (June 28)
 * **Get SWIG to compile and read a register in python**:
 * **Get the C code up to Swig standards**:
+* **Add README's to some pages**:
 * **Document SWIG process**:
 * **Continue learning the Xilinx Library**:
 * **JTAG Bootcamp Page**:
 * **Find a style to stick to for Doxygen Documentation**: 
+
+### Week 10: June 28, 2021
+
+* **Monday**: Finished the setup.py generation, working on fixing the xilinx library so that it is SWIG worthy
+* **Tuesday**: Chip Camp
+* **Wednesday**: Chip Camp
+* **Thursday**: Chip Camp
+* **Friday**: 
 
 ### Week 9: June 21, 2021
 
