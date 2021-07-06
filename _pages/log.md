@@ -3,7 +3,8 @@ layout: default
 title: IMMERSE Log
 ---
 
-### This Week's Goals (June 28)
+### This Week's Goals (July 05)
+* **Understand the .i files and why they aren't working**:
 * **Get SWIG to compile and read a register in python**:
 * **Get the C code up to Swig standards**:
 * **Add README's to some pages**:
@@ -18,7 +19,7 @@ title: IMMERSE Log
 * **Tuesday**: Chip Camp
 * **Wednesday**: Chip Camp
 * **Thursday**: Chip Camp
-* **Friday**: 
+* **Friday**: Worked on .i file problems
 
 ### Week 9: June 21, 2021
 
