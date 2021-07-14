@@ -3,7 +3,7 @@ layout: default
 title: IMMERSE Log
 ---
 
-### This Week's Goals (July 05)
+### This Week's Goals (July 12)
 * **Understand the .i files and why they aren't working**:
 * **Get SWIG to compile and read a register in python**:
 * **Get the C code up to Swig standards**:
@@ -12,6 +12,22 @@ title: IMMERSE Log
 * **Continue learning the Xilinx Library**:
 * **JTAG Bootcamp Page**:
 * **Find a style to stick to for Doxygen Documentation**: 
+
+### Week 12: July 12, 2021
+
+* **Monday**: Travel
+* **Tuesday**: Trave;
+* **Wednesday**: Still working on the .i files. I cannot get GenericJTAGDevice to work when "jcm" is imported. The only thing I have gotten to work so far is the JCMJTAGHardware. 
+* **Thursday**: 
+* **Friday**: 
+
+### Week 11: July 05, 2021
+
+* **Monday**: Holiday
+* **Tuesday**: Travel
+* **Wednesday**: Travel
+* **Thursday**: Vacation
+* **Friday**: Vacation
 
 ### Week 10: June 28, 2021
 
