@@ -3,7 +3,7 @@ layout: default
 title: IMMERSE Log
 ---
 
-### This Week's Goals (July 12)
+### This Week's Goals (July 19)
 * **Understand the .i files and why they aren't working**:
 * **Get SWIG to compile and read a register in python**:
 * **Get the C code up to Swig standards**:
@@ -16,10 +16,10 @@ title: IMMERSE Log
 ### Week 12: July 12, 2021
 
 * **Monday**: Travel
-* **Tuesday**: Trave;
+* **Tuesday**: Travel
 * **Wednesday**: Still working on the .i files. I cannot get GenericJTAGDevice to work when "jcm" is imported. The only thing I have gotten to work so far is the JCMJTAGHardware. 
-* **Thursday**: 
-* **Friday**: 
+* **Thursday**: Catching up on a class
+* **Friday**: Got the GenericJTAGDevice working after running a make clean and rewriting the _jcm.so, but then the JCMHardware didn't work. Still figuring out why.
 
 ### Week 11: July 05, 2021
 
