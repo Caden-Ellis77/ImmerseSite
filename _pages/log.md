@@ -3,15 +3,31 @@ layout: default
 title: IMMERSE Log
 ---
 
-### This Week's Goals (July 19)
-* **Understand the .i files and why they aren't working**:
-* **Get SWIG to compile and read a register in python**:
-* **Get the C code up to Swig standards**:
+### This Week's Goals (July 26)
+* **Read a register in python**:
+* **Get the C code up to Swig standards, (xilinx libraries)**:
 * **Add README's to some pages**:
-* **Document SWIG process**:
-* **Continue learning the Xilinx Library**:
+* **Continue Documenting swig process**:
 * **JTAG Bootcamp Page**:
-* **Find a style to stick to for Doxygen Documentation**: 
+* **Doxygen Documentation Generation**: 
+
+
+### Week 14: July 26, 2021
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
+
+### Week 13: July 19, 2021
+
+* **Monday**: Troubleshooting the _jcm.so
+* **Tuesday**: Fixing a few more files so they are up to swig stantards. 
+* **Wednesday**: Figured out the dependency trees to wrap everything in swig to read a register. SWIG finally compiled.
+* **Thursday**: Trying to get the read register to work, got back all 1's but the rest of the steps before it seemed to work. I maybe figured out a shorter way to compile
+* **Friday**: Out for the Holiday
 
 ### Week 12: July 12, 2021
 
