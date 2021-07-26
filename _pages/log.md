@@ -5,6 +5,7 @@ title: IMMERSE Log
 
 ### This Week's Goals (July 26)
 * **Read a register in python**:
+* **Run Valgrind on the basic executables**:
 * **Get the C code up to Swig standards, (xilinx libraries)**:
 * **Add README's to some pages**:
 * **Continue Documenting swig process**:
