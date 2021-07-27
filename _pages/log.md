@@ -15,8 +15,8 @@ title: IMMERSE Log
 
 ### Week 14: July 26, 2021
 
-* **Monday**: 
-* **Tuesday**: 
+* **Monday**: Installed valgrind and worked on some memory leaks and segfaults
+* **Tuesday**: Fixed one of the segfaults, working on reading a register again. Still all 1's
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
