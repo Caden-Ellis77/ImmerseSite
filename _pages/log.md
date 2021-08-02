@@ -3,8 +3,8 @@ layout: default
 title: IMMERSE Log
 ---
 
-### This Week's Goals (July 26)
-* **Read a register in python**:
+### This Week's Goals (Aug 2)
+* **Create other python executables**:
 * **Run Valgrind on the basic executables**:
 * **Get the C code up to Swig standards, (xilinx libraries)**:
 * **Add README's to some pages**:
@@ -13,13 +13,21 @@ title: IMMERSE Log
 * **Doxygen Documentation Generation**: 
 
 
+### Week 15: Aug 2, 2021
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**: 
+
 ### Week 14: July 26, 2021
 
 * **Monday**: Installed valgrind and worked on some memory leaks and segfaults
 * **Tuesday**: Fixed one of the segfaults, working on reading a register again. Still all 1's
-* **Wednesday**: 
-* **Thursday**: 
-* **Friday**: 
+* **Wednesday**: Finally read the register and id code
+* **Thursday**: Added all options to the jtag_read_reg.py
+* **Friday**: Working on other executables, starting with full config
 
 
 ### Week 13: July 19, 2021
