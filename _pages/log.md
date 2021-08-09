@@ -15,7 +15,7 @@ title: IMMERSE Log
 
 ### Week 15: Aug 9, 2021
 
-* **Monday**: 
+* **Monday**: Finally got the jcm swig module to import. Working on the full config executable
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
