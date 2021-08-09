@@ -3,7 +3,8 @@ layout: default
 title: IMMERSE Log
 ---
 
-### This Week's Goals (Aug 2)
+### This Week's Goals (Aug 9)
+* **Figure out why swig won't run with xilinx library**:
 * **Create other python executables**:
 * **Run Valgrind on the basic executables**:
 * **Get the C code up to Swig standards, (xilinx libraries)**:
@@ -12,14 +13,22 @@ title: IMMERSE Log
 * **JTAG Bootcamp Page**:
 * **Doxygen Documentation Generation**: 
 
-
-### Week 15: Aug 2, 2021
+### Week 15: Aug 9, 2021
 
 * **Monday**: 
 * **Tuesday**: 
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**: 
+
+
+### Week 15: Aug 2, 2021
+
+* **Monday**: Getting the xilinx libary code swiggable
+* **Tuesday**: Got swig to compile, but the "import jcm" fails
+* **Wednesday**: Uncommented parts of the swig list to make compiling quicker for troubleshooting
+* **Thursday**: Troubleshooting why swig won't work
+* **Friday**: Troubleshooting why swig won't work: found that there were .includes in a .cpp file
 
 ### Week 14: July 26, 2021
 
