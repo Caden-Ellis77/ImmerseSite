@@ -16,8 +16,8 @@ title: IMMERSE Log
 ### Week 15: Aug 9, 2021
 
 * **Monday**: Finally got the jcm swig module to import. Working on the full config executable
-* **Tuesday**: 
-* **Wednesday**: 
+* **Tuesday**: COVID day, worked on Segfault
+* **Wednesday**: Worked around the segault and finished full config. Made pull request
 * **Thursday**: 
 * **Friday**: 
 
