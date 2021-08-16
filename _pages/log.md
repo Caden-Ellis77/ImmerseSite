@@ -3,23 +3,30 @@ layout: default
 title: IMMERSE Log
 ---
 
-### This Week's Goals (Aug 9)
-* **Figure out why swig won't run with xilinx library**:
-* **Create other python executables**:
+### This Week's Goals (Aug 16)
+* **Create jcm configreg and config  python executables**:
 * **Run Valgrind on the basic executables**:
-* **Get the C code up to Swig standards, (xilinx libraries)**:
 * **Add README's to some pages**:
 * **Continue Documenting swig process**:
 * **JTAG Bootcamp Page**:
-* **Doxygen Documentation Generation**: 
+* **Doxygen Documentation Generation**:
 
-### Week 15: Aug 9, 2021
 
-* **Monday**: Finally got the jcm swig module to import. Working on the full config executable
+### Week 17: Aug 16, 2021
+
+* **Monday**:
+* **Tuesday**:
+* **Wednesday**:
+* **Thursday**:
+* **Friday**:
+
+### Week 16: Aug 9, 2021
+
+* **Monday**: Finally got the jcm swig module to import. Working on the full co>
 * **Tuesday**: COVID day, worked on Segfault
-* **Wednesday**: Worked around the segault and finished full config. Made pull request
-* **Thursday**: 
-* **Friday**: 
+* **Wednesday**: Worked around the segault and finished full config. Made pull >
+* **Thursday**: Made some shared python files for the jcm apps, replicated func>
+* **Friday**: Continued working on jcm_config.py
 
 
 ### Week 15: Aug 2, 2021
