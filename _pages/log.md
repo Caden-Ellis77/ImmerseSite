@@ -11,7 +11,6 @@ title: IMMERSE Log
 * **JTAG Bootcamp Page**:
 * **Doxygen Documentation Generation**:
 
-<<<<<<< HEAD
 
 ### Week 17: Aug 16, 2021
 
@@ -21,29 +20,13 @@ title: IMMERSE Log
 * **Thursday**: 
 * **Friday**:
 
-### Week 16: Aug 9, 2021
-=======
->>>>>>> 3a43c1e0252299b902cfbd8a6238a0c328b88118
-
-### Week 17: Aug 16, 2021
-
-* **Monday**:
-* **Tuesday**:
-* **Wednesday**:
-* **Thursday**:
-* **Friday**:
 
 ### Week 16: Aug 9, 2021
 
 * **Monday**: Finally got the jcm swig module to import. Working on the full co>
 * **Tuesday**: COVID day, worked on Segfault
-<<<<<<< HEAD
 * **Wednesday**: Worked around the segault and finished full config. Made pull request
 * **Thursday**: Made some shared python files for the jcm apps, replicated functions  
-=======
-* **Wednesday**: Worked around the segault and finished full config. Made pull >
-* **Thursday**: Made some shared python files for the jcm apps, replicated func>
->>>>>>> 3a43c1e0252299b902cfbd8a6238a0c328b88118
 * **Friday**: Continued working on jcm_config.py
 
 
