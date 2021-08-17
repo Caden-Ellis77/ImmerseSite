@@ -14,8 +14,8 @@ title: IMMERSE Log
 
 ### Week 17: Aug 16, 2021
 
-* **Monday**:
-* **Tuesday**:
+* **Monday**: Working on jcm_config.py. There are some segfault issues still. 
+* **Tuesday**: Worked on finding the cause of the segfault. I still suspect inheritance/pointer issues, and working around that will be difficult because I will need to rewrite a lot of code that could be summed up in just one function. 
 * **Wednesday**: 
 * **Thursday**: 
 * **Friday**:
