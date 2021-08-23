@@ -4,7 +4,7 @@ title: IMMERSE Log
 ---
 
 ### This Week's Goals (Aug 16)
-* **Create jcm configreg and config  python executables**:
+* **Create jcm scrubbing python executables**:
 * **Run Valgrind on the basic executables**:
 * **Add README's to some pages**:
 * **Continue Documenting swig process**:
@@ -12,13 +12,22 @@ title: IMMERSE Log
 * **Doxygen Documentation Generation**:
 
 
+### Week 18: Aug 23, 2021
+
+* **Monday**: 
+* **Tuesday**: 
+* **Wednesday**: 
+* **Thursday**: 
+* **Friday**:
+
+
 ### Week 17: Aug 16, 2021
 
 * **Monday**: Working on jcm_config.py. There are some segfault issues still. 
 * **Tuesday**: Worked on finding the cause of the segfault. I still suspect inheritance/pointer issues, and working around that will be difficult because I will need to rewrite a lot of code that could be summed up in just one function. 
-* **Wednesday**: 
-* **Thursday**: 
-* **Friday**:
+* **Wednesday**: Could not come in
+* **Thursday**: Still hitting a road block with the segfault. The work around seems too big, and also defeats the purpose of swig. 
+* **Friday**: Found the weirdest hack to FINALLY get the swig to stop segfaulting. Finished jcm_config and jcm_configreg and got jcm_frads started. 
 
 
 ### Week 16: Aug 9, 2021
